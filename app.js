@@ -66,14 +66,7 @@ function verificarChute() { // função vazia, nesse caso VerificarChute tambem 
 
 
         
-        }
-
-        // em uma lista, o primeiro elemento sempre é 0
-        // let number = [1,5,9];
-        // number.length conta quantos numbers tem em uma lista
-        //let linguagens ['javascript', 'java', 'phyton'];
-        //linguagens[1]; acessar java
-        // linguagens[2]; acessar phyton
+    
         // linguagens[linguagens.length - 1]; acessar phyton, acessa o ultimo elemento da lista
 
 
